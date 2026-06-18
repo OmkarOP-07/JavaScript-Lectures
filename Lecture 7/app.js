@@ -53,3 +53,7 @@ box.after(newBtn)
 // when new class is added old one is overridden
 // Learn new Concept - ClassList 
 // Solve using this concept
+function changeStyle() {
+  let para = document.getElementById("text");
+  para.classList.add("newStyle");
+}

@@ -4,3 +4,14 @@
     border: 1px solid black;
     background-color: aqua;
 }
+
+.oldStyle {
+  color: blue;
+  font-size: 16px;
+}
+
+.newStyle {
+  color: red;
+  font-weight: bold;
+  background-color: yellow;
+}
